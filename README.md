@@ -1,2 +1,2 @@
-# testcode
-check memory leak
+# printf
+Printf42 cprogramming
